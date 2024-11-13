@@ -1,4 +1,4 @@
-##👋 Hi, I’m @Shaheemsv 
+## 👋 Hi, I’m @Shaheemsv
   I'm a diploma in computer engineering student at SSM Polytechnic college, Tirur.
 - 👀 I’m interested in web development, learning new programming language and  UI/UX
 - 🌱 I’m currently learning JavaScript and React to build  my final year project
